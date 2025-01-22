@@ -81,7 +81,3 @@ This project aims to automate the process of determining employee status at XYZ 
 ## State Management
 
 This project uses **BLoC Cubit** for state management to handle the flow of employee data and UI state transitions.
-
-## License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
