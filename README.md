@@ -1,4 +1,4 @@
-# XYZ Inc. Employee Status and Productivity Automation System
+# XYZ Inc. Mobile Developer Assessment
 
 This project aims to automate the process of determining employee status at XYZ Inc. based on their yearly productivity scores. The mobile system handles employee data, evaluates their status, and calculates new salaries according to pre-set levels.
 
