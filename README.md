@@ -5,11 +5,11 @@ This project aims to automate the process of determining employee status at XYZ 
 ## Mobile View Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/shared/dashboard.png" alt="Home Screen" width="200" />
-  <img src="assets/shared/promotion.png" alt="Promotion Status" width="200" />
-  <img src="assets/shared/demotion.png" alt="Demotion Status" width="200" />
-  <img src="assets/shared/termination.png" alt="Termination Status" width="200" />
-  <img src="assets/shared/filter.png" alt="Filtering Employee" width="200" />
+  <img src="assets/images/shared/dashboard.png" alt="Home Screen" width="200" />
+  <img src="assets/images/shared/promotion.png" alt="Promotion Status" width="200" />
+  <img src="assets/images/shared/demotion.png" alt="Demotion Status" width="200" />
+  <img src="assets/images/shared/termination.png" alt="Termination Status" width="200" />
+  <img src="assets/images/shared/filter.png" alt="Filtering Employee" width="200" />
 </div>
 
 ## Features
