@@ -55,7 +55,7 @@ This project aims to automate the process of determining employee status at XYZ 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/xyz-inc-employee-automation.git
+    git clone https://github.com/roqeebdev/mobile_developer_assessment
     ```
 
 2. Install dependencies:
